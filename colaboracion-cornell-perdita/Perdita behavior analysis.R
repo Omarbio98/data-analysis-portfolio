@@ -1,8 +1,5 @@
 setwd("/Users/user/Desktop/Scripts Perdita maritima")
 perdita<- read.csv(choose.files())
-install.packages("webshot2")
-install.packages("kableExtra")
-install.packages("tidyverse")
 library(DHARMa)
 library(lme4)
 library(ggplot2)
