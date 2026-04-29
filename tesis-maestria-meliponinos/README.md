@@ -26,7 +26,7 @@ En preparación para defensa (próximo mes) y posterior publicación en revista 
 English version
 # Analysis of Stingless Bee Nests in Oaxaca
 
-**Master's Thesis Project in Apiculture Production**
+**Master's Thesis Project in Apicultural Production**
 University of Guadalajara, 2025
 
 ## 🎯 Objective
