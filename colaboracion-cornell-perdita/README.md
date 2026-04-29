@@ -16,7 +16,7 @@ Evaluar patrones de comportamiento de una abeja nativa solitaria integrando vari
 R, RStudio, paquetes: lme4, ggplot2, tidyverse
 
 ## 📂 Contenido de la carpeta
-- `scripts/`: Código R documentado y reproducible, resultados disponibles despúes de ser publicados.
+- `scripts/`: Código R documentado y reproducible, resultados disponibles después de ser publicados.
 
 ## 📄 Estado
 Resultados en preparación para publicación en revista indexada.
